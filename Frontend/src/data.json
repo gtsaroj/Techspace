@@ -64,7 +64,7 @@
       "PackagePrice": 30000,
       "features": [
         "Performance Optimization",
-        "Advanced Analytics", 
+        "Advanced Analytics",
         "Custom Forms",
         "API Integration",
         "Content Management System"
@@ -88,20 +88,20 @@
     {
       "title": "Aneej Ghimire",
       "profession": "Digital Marketing",
-      "image_url": "..photos/Aneej.jpg"
+      "image_url": "https://res.cloudinary.com/dhnvpzxt6/image/upload/v1719368797/Aneej_qzhnai.jpg"
     },
     {
       "title": "Sudarshan Dhakal",
       "profession": "Full Stack developer",
-      "image_url": "..photos/Sudarshan.jpg"
+      "image_url": "https://res.cloudinary.com/dhnvpzxt6/image/upload/v1719368797/Sudarshan_zpxpxd.jpg"
     },
     {
       "title": "Saroj GT",
       "profession": "MERN Developer",
-      "image_url": "..photos/rounded.png"
+      "image_url": "https://res.cloudinary.com/dhnvpzxt6/image/upload/v1719368797/rounded_kylprr.png"
     }
   ],
-  "trustyData" : [
+  "trustyData": [
     {
       "title": "Customer Testimonials",
       "description": "Read genuine reviews from our satisfied clients who have benefited from our web development services."
@@ -119,5 +119,4 @@
       "description": "Our process is transparent from start to finish, keeping you informed and involved every step of the way."
     }
   ]
-  
 }

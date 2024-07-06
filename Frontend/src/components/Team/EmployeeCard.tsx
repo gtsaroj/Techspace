@@ -7,7 +7,6 @@ export const EmployeeCard : React.FC<EmployeeCardProp> = ({prop}) => {
   return (
     <div className="md:w-[300px] sm:w-[380px]  cursor-pointer rounded-tr-3xl rounded-bl-3xl  sm:hover:w-[400px] duration-500 group/info relative h-[400px] bg-[var(--light-background)] overflow-hidden">
       <div className="w-full backdrop:brightness-50 h-full   duration-150 ">
-        console.log(prop.image_url);
         <img
           className="w-full object-cover relative h-full "
           src={prop.image_url}
